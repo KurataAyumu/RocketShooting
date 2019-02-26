@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ac9b65881d67c7b4e905268d60c16350
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RockPrefab: {fileID: 1054606505799172, guid: e10c1c366bf1443409fa814877573342,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
